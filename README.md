@@ -19,3 +19,5 @@
 2. 定义NestedScrollingParentHelper变量。
 3. 在实现的NestedScrollingParent几个接口中(onNestedScrollAccepted, onStopNestedScroll, getNestedScrollAxes)调用NestedScrollingParentHelper对应的函数。
 4. 视情况而定onNestedScroll onNestedPreScroll onNestedFling onNestedPreFling 做相应的处理。
+
+**参考地址：** [嵌套机制](https://www.jianshu.com/p/e333f11f29aa)
