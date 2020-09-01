@@ -19,6 +19,10 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".RecycleViewActivity" />
         <activity android:name=".RecycleViewActivity2" />
+        <activity android:name=".behavior.test1.TestActivity1" />
+        <activity android:name=".behavior.test2.TestActivity2" />
+        <activity android:name=".behavior.mainpage.TestActivity3" />
+        <activity android:name=".behavior.xiami.TestActivity4" />
     </application>
 
 </manifest>

@@ -2,6 +2,9 @@
 
 ![流程图](https://upload-images.jianshu.io/upload_images/1458573-8de7ad21ecfa0e82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/800/format/webp)
 
+### demo效果
+![demo](device-2020-09-01-114753.png)
+
 ### 1.嵌套滑动的发起者：子View
 
 > 主要思路：（用scroll来举例）
@@ -21,3 +24,4 @@
 4. 视情况而定onNestedScroll onNestedPreScroll onNestedFling onNestedPreFling 做相应的处理。
 
 **参考地址：** [嵌套机制](https://www.jianshu.com/p/e333f11f29aa)
+**参考地址：** [自定义behavior](https://www.jianshu.com/p/b987fad8fcb4)

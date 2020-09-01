@@ -7,21 +7,54 @@
 
     <Button
         android:id="@+id/btn1"
-        android:layout_width="100dp"
+        android:layout_width="wrap_content"
         android:layout_height="40dp"
-        android:text="例子1" />
+        android:padding="5dp"
+        android:text="嵌套滑动" />
 
     <Button
         android:id="@+id/btn2"
-        android:layout_width="100dp"
+        android:layout_width="wrap_content"
         android:layout_height="40dp"
         android:layout_marginTop="20dp"
-        android:text="例子2" />
+        android:padding="5dp"
+        android:text="嵌套recycleview" />
 
     <Button
         android:id="@+id/btn3"
-        android:layout_width="100dp"
+        android:layout_width="wrap_content"
         android:layout_height="40dp"
         android:layout_marginTop="20dp"
-        android:text="例子3" />
+        android:padding="5dp"
+        android:text="嵌套recycleview2" />
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:padding="5dp"
+        android:text="自定义behavior--头部显示和隐藏" />
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:padding="5dp"
+        android:text="自定义behavior--recycleview固定" />
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:padding="5dp"
+        android:text="自定义behavior--tab和fragment" />
+    <Button
+        android:id="@+id/btn7"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:padding="5dp"
+        android:text="自定义behavior--虾米音乐效果" />
 </LinearLayout>

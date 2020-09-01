@@ -1,3 +1,16 @@
 <resources>
-  <string name="app_name">NestedScrollDemo</string>
+    <string name="app_name">NestedScrollDemo</string>
+
+
+    <string name="behavior_sample_title">com.allen.android.nestedscrolldemo.behavior.test1.SampleTitleBehavior</string>
+    <string name="behavior_sample_title2">com.allen.android.nestedscrolldemo.behavior.test2.SampleHeaderBehavior</string>
+    <string name="behavior_recycleview">com.allen.android.nestedscrolldemo.behavior.test2.RecyclerViewBehavior</string>
+
+    <string name="behavior_main_content">com.allen.android.nestedscrolldemo.behavior.mainpage.behavior.MainContentBehavior</string>
+    <string name="behavior_main_header">com.allen.android.nestedscrolldemo.behavior.mainpage.behavior.MainHeaderBehavior</string>
+    <string name="behavior_main_title">com.allen.android.nestedscrolldemo.behavior.mainpage.behavior.MainTitleBehavior</string>
+    <string name="behavior_main_tab">com.allen.android.nestedscrolldemo.behavior.mainpage.behavior.MainTabBehavior</string>
+
+    <string name="behavior_xiami_comment">com.allen.android.nestedscrolldemo.behavior.xiami.behavior.XiamiCommentBehavior</string>
+    <string name="behavior_xiami_title">com.allen.android.nestedscrolldemo.behavior.xiami.behavior.XiamiTitleBehavior</string>
 </resources>

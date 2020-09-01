@@ -1,9 +1,9 @@
 package com.allen.android.nestedscrolldemo;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.Gravity;
@@ -13,7 +13,7 @@ import android.widget.TextView;
 /**
  * Created by liyong on 2020/8/28.
  */
-public class RecycleViewActivity extends Activity {
+public class RecycleViewActivity extends AppCompatActivity {
     //    声明一个RecycleView变量
     RecyclerView recyclerView;
 
